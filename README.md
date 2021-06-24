@@ -1,6 +1,7 @@
 # compcars
 
-Train/build car verification model based on Compcars dataset. 
+Train/build car verification model based on Compcars dataset
+Pytorch CNN approaches. 
 
 Current implementations included:
 1. Dataset pre-processing.
